@@ -1,0 +1,6 @@
+records=8 exact=5 rounded=3 underflow=0 overflow=0
+finite source values=5 binary64 keys=3 lost distinctions=2
+collision groups=2 new equal pairs=3
+gate=FAIL
+  0x1.0000000000000p+53: records=3 exact values=2 new pairs=2; first records [1 x2, 2 x1] omitted values=0
+  0x1.999999999999ap-4: records=2 exact values=2 new pairs=1; first records [4 x1, 5 x1] omitted values=0
